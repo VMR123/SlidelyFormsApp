@@ -26,6 +26,22 @@ cd SlidelyFormApp
 
 Press `F5` or click on **Start** to run the application.
 
+## App Design Layout
+
+### Main Form
+
+![Screenshot 2024-06-20 170532](https://github.com/VMR123/SlidelyFormsApp/assets/84794566/b7ecd7d1-3d3a-4611-8013-0c4fbf7ac2d5)
+
+### View Submissions Form
+
+![Screenshot 2024-06-20 170740](https://github.com/VMR123/SlidelyFormsApp/assets/84794566/1f7abd41-92ad-4119-b790-a49cd08d5421)
+
+### Create Submission Form
+
+![Screenshot 2024-06-20 170824](https://github.com/VMR123/SlidelyFormsApp/assets/84794566/fbcbd38c-5f95-41c2-9f7b-932a47d41580)
+
+
+
 ## Features
 
 ### Main Form
