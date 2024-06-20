@@ -1,0 +1,17 @@
+C:\Users\vishw\source\repos\SlidelyFormsApp\obj\Debug\SlidelyFormsApp.vbproj.AssemblyReference.cache
+C:\Users\vishw\source\repos\SlidelyFormsApp\bin\Debug\SlidelyFormsApp.exe.config
+C:\Users\vishw\source\repos\SlidelyFormsApp\bin\Debug\SlidelyFormsApp.exe
+C:\Users\vishw\source\repos\SlidelyFormsApp\bin\Debug\SlidelyFormsApp.pdb
+C:\Users\vishw\source\repos\SlidelyFormsApp\bin\Debug\SlidelyFormsApp.xml
+C:\Users\vishw\source\repos\SlidelyFormsApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vishw\source\repos\SlidelyFormsApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vishw\source\repos\SlidelyFormsApp\obj\Debug\SlidelyFormsApp.CreateSubmissionForm.resources
+C:\Users\vishw\source\repos\SlidelyFormsApp\obj\Debug\SlidelyFormsApp.Form1.resources
+C:\Users\vishw\source\repos\SlidelyFormsApp\obj\Debug\SlidelyFormsApp.Resources.resources
+C:\Users\vishw\source\repos\SlidelyFormsApp\obj\Debug\SlidelyFormsApp.ViewSubmissionsForm.resources
+C:\Users\vishw\source\repos\SlidelyFormsApp\obj\Debug\SlidelyFormsApp.vbproj.GenerateResource.cache
+C:\Users\vishw\source\repos\SlidelyFormsApp\obj\Debug\SlidelyFormsApp.vbproj.CoreCompileInputs.cache
+C:\Users\vishw\source\repos\SlidelyFormsApp\obj\Debug\SlidelyF.5C8CC0B7.Up2Date
+C:\Users\vishw\source\repos\SlidelyFormsApp\obj\Debug\SlidelyFormsApp.exe
+C:\Users\vishw\source\repos\SlidelyFormsApp\obj\Debug\SlidelyFormsApp.xml
+C:\Users\vishw\source\repos\SlidelyFormsApp\obj\Debug\SlidelyFormsApp.pdb
